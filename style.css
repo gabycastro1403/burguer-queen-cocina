@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Economica&display=swap');
+p{
+    color:#707070;
+    font-family: 'Economica', sans-serif;
+    font-size: 1em;
+}
+body{
+    background-color: #edf5f9
+}
